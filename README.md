@@ -1,3 +1,6 @@
+
+<img src="https://jcoh3n/lionel-messi-messi.gif" alt="Football/Soccer play" width="500"/>
+
 <h1 align="center">Hi 👋, I'm Joey</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
