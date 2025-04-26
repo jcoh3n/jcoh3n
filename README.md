@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joey</h1>
 
 <p align="center">
-  <img src="https://jcoh3n/lionel-messi-messi.gif" alt="Football/Soccer play" width="500"/>
+  <img src="https://media.tenor.com/vEazw50GxzsAAAAd/lionel-messi-messi.gif" alt="Lionel Messi Assist" width="500"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
