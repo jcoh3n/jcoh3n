@@ -1,9 +1,7 @@
+
+![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://media1.tenor.com/m/1Bmneu7Ab0EAAAAd/lionel-messi-messi.gif)
+
 <h1 align="center">Hi 👋, I'm Joey</h1>
-
-<p align="center">
-  <img src="https://media.tenor.com/vEazw50GxzsAAAAd/lionel-messi-messi.gif" alt="Lionel Messi Assist" width="500"/>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
